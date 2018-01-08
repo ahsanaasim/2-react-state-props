@@ -2,3 +2,6 @@
   border-style: solid;
   border-left-width: 15px;
 }
+p {
+  font-weight: bold;
+}
