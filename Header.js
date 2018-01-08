@@ -1,8 +1,10 @@
 import React from 'react';
+import styles from'./style.css';
 
 export class Header extends React.Component {
 
     render() {
+        // console.log(styles)
         const x = 5;
         const style = {color: 'red', 'fontSize': 20, 'backgroundColor': 'blue'};
         return (
