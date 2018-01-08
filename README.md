@@ -1,4 +1,4 @@
-# React State Props
+# React JSX & Components
 
 #### Getting Started with the previous project
 
