@@ -4,9 +4,11 @@ export class Header extends React.Component {
 
     render() {
         const x = 5;
+        const style = {color: 'red', 'fontSize': 20, 'backgroundColor': 'blue'};
         return (
             <div>
-                <p style={{color: 'red'}}>This is header: {x}</p>
+                <p style={{color: 'red', 'fontSize': 20, 'backgroundColor': 'blue'}}>This is header: {x}</p>
+                <p style={style}>This is header: {x}</p>
             </div>
         );
     }
