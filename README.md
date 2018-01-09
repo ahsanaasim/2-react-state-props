@@ -13,6 +13,7 @@ It makes it easier and faster to write templates, if you are familiar with HTML.
 1. Create a seprate file Header.js which will be our first Component. It should extend  React.Component
 2. It should export itself so we can import it in everywhere
 3. Render should return only one html element which can have multiple child elements.
+4. To import jsx file we need add the extension on import statement. and if it is js file then we dont need add the extension
 
 #### Working with CSS
 1. For inline styling, style attribute can have a object of object of style properties.
